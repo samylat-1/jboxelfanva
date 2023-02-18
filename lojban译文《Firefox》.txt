@@ -1,0 +1,14 @@
+Lojban original	English original	中文	自译
+pe'u		请求	pe'u
+pe'u do pilno la .fairfyks.	Please adopt Firefox.	请你使用Firefox浏览器	pe'u do pilno la .faglo'usamseltcanykibyca'o.
+.i fy. zmadu ka pendo	*He's Friendlier.*	它更友好	.i fy. zmadu ka pendo
+.i fy. zmadu tolckape	*He's Safer.*	它更安全	.i fy. zmadu snura
+.i mulno xauzma	*He's all around better.*	它完全更好	.i mulno xauzma
+.i ja'e bo mu'i ma na go'a	So why not?	因此为什么不呢？	mu'i ma na pilno la .faglo'usamseltcanykibyca'o.
+			
+			
+			
+			
+			
+			
+lojban版：https://commons.wikimedia.org/wiki/File:Pilnofairfyks-jbo.png			原版：https://metabooru.com/posts/45713225723f16e48cb5ebc2bb16c6af

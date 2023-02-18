@@ -1,0 +1,24 @@
+lojbo	中-jbo皮钦语	简体中文
+[lo'u le mlatu di'o xarcritytu'a le'u]	\[”]-[者]-猫-[于地点]-幻'秋'土-[\”]	《在幻想秋土的猫》
+|.i nu le labmlatu na cinri kei ki'u vo'a lo nu no lo cinrydai ku cu zukte fa lo ka mlatu ku ca ti kei 	\。-[事]-[者]-白'猫-[非]-兴-[\事]-ki'u因为-x1自己-[有]-[事]-[0]-[有]-兴'事-[\有]-[是]-[做]-fa-[有]-[性]-猫-[\有]-[于时间]-[这]-[\事]	白猫没有兴致，因为它自己无事可做。
+|.i le mlatu co'a zazypevycikna gi'a zazypevysipna 	\。-[者]-猫-[开始]-状态'厌'醒-gi'a或-状态'厌'眠	猫开始厌倦了醒着或睡去。
+|.i le mlatu ku ganse lo cizra .i jo'u ri mensku vo'a ki'u ma 	\。-[者]-猫-[\者]-感-[有]-奇-。-jo'u与-ri前-心理'说-x1自己-ki'u因为-ma?	猫很奇怪，自言自己为何如此。
+|.i le lorxu ku cusku lu ti li'o lo latcando ju'o cu'i li'u 	\。-[者]-[狐]-[\者]-说-«-ti前-…-[有]-猫'休息-[不确定地']-»	”因为……猫之休息？”
+|.i le mlatu ku cusku lu la'a cu'i mi selfi'u .i ma le latcando li'u 	\。-[者]-猫-[\者]-说-«-[有可能]-[我]-被'困惑-。-[什么?]-[有]-猫'休息-»	“什么是猫之休息？”
+|.i le lorxu ku cusku lu zo'o da'i nai ko nu do co'a klama lo zdabartu ku kei ki'u lo nu .ei ko gleki kei li'u 	\。-[者]-[狐]-[\者]-说-«-[旁白地]-[幽默地]-[实际上]-[命令]-[事]-[你]-来-[有]-房'外-[\事]-ki'u因为-[有]-[事]-[有义务地]-[命令]-乐-[\事]-»	“哈哈，我的意思是你应该去户外，你该开心起来。”
+|.i le mlatu ku cusku lu la'a cu'i je'e li'u 	\。-[者]-猫-[\者]-说-«-[有可能]-[知道了]-»	“好的，我知道了。”
+|.i le mlatu ku klama jo'u lebna le dakli pe vo'a 	\。-[者]-猫-[\者]-来-jo'u与-拿-[者]-袋-pe属于-x1自己	猫出发了，带着他的包。
+|.i .ue dai le mlatu ku na krici le jvinu 	\。-[惊讶地]-[者]-猫-[\者]-[非]-信-[者]-景	猫真的不敢相信这景象！
+__.i le mlatu ku cusku lu	\。-[者]-猫-[\者]-说-«	“
+____.ui .ue 		
+______lo mutce najyxu'epezli .e 	\[开心地]-[惊讶地]-[有]-多-橙'红'叶-.e与	群聚的树叶！
+________lo smari'e .e 	\[有]-静'河-.e与	宁静的小河！
+__________lo dilnu vofli .e	\[有]-云-飞-.e与	飞翔的云朵！
+____________lo girplu di'o lo lalxu .e	\[有]-组-岛-[于地点]-[有]-湖-.e与	水上的群岛！
+______________le solri di'o		
+____________lo bixmanytsani .e	\[者]-黄-阳-[于地点]-[有]-橙'天-.e与	黄昏中的黄太阳！
+__________le solgu'i norzilyle'o .e	\[者]-??-???-.e与	柔和的阳光！
+______li'o noi narju mivmu'e	\…-noi-橙-生物'宇宙-»	——橙色的世界！”
+__li'u		
+|.i .ui sai dai nu le mlatu ku sutra ctacarna kei ki'u le nu vo'a facki le smuni le jmive ku ku kei	\。[开心地]-sai-dai-[事]-[者]-猫-[\者]-环?顾-快速地-[\事]-ki'u因为-[者]-[事]-x1自己-寻-[者]-为-[者]-命-[\者]-[\者]-[\事]	猫开心地环顾着，因为它找到了生命的意义。
+[fa'o]	\fa'o终	终

@@ -1,0 +1,66 @@
+原文(原地址就动动小手自己在la .uikipedi'as. 中搜索条目"Lojban"吧……)：
+lojbo gerna Lojban grammar
+├ jufra sentence, in view of etymology from Chinese 句 jù, Spanish frase, Russian фра́за[1]
+│└ bridi predicate structure[2]
+│   ├ selbri verb construction consisting of brivo
+│   │└ tanru consists of more than one brivo, derived from English metaphor, Chinese 隐喻 yǐnyù, Hindi रूपक rupak
+│   │   ├ seltau left word in a tanru
+│   │   └ tertau right word in a tanru
+│   └ terbri argument structure
+│       └ sumti argument, equalling subject/object
+│           └ gadri initiating article such as la, le, lo, derived from Chinese 冠词 guàncí, Arabic أداة adah, Spanish artículo
+└ valsi word, derived from Hindi वचन vachan, Russian слово, Chinese 词 sí
+    ├ cmavo structure word, from ‘cmalu valsi’ = small word[3]
+    │├ selma'o cmavo class
+    │└ terma'o (or cmavo smuni) cmavo meaning
+    ├ brivo, brivla[4]
+    │├ gismu 5-letter root word, from Chinese 根基源 gēnjīyuán, Hindi मूल mul
+    │├ lujvo compound word made from ‘rafsi’
+    ││├ rafsi affix, suffix, prefix, derived also from Hindi प्रत्यय pratyay, Chinese 词缀 sízhuì
+    ││├ reljvo, cibjvo, vonjvo, ... lujvo consisting of 2, 3, 4, ... rafsi[5]
+    ││├ jvotau (or veljvo) tanru or metaphor construct (without shortenings to rafsi) of lujvo
+    ││├ zevlyjvo lujvo formed from zi'evla via a morphological extension using -(')y(')- hyphens
+    ││├ nibysucyjvo implicit-abstraction lujvo[6]
+    ││├ (sizy)jvomi'u (concept of) equivalent, alternative lujvo form(s) with equal meaning, from ‘(si'o) lujvo mintu’
+    ││├ jvova'i lujvo score, from ‘lujvo vamji’[7]
+    ││└ xlajvo bad / poorly-made lujvo, from ‘xlali lujvo’
+    │└ fu'ivla loanword, from ‘fukpi valsi’ = copied word[8]
+    │   ├ pavyfu'ivla in stage 1 the original word’s spelling is kept
+    │   └ zevla, zi'evla (zifre valsi = ‘free word’)
+    │       └ relfu'ivla, cibyfu'ivla, ... in higher stages foreign spellings are changed
+    └ cmevo, cmevla property word ending in a consonant, ‘cmene’ is a cmevo word(s) construction[9]
+        └ jvocmevo lujvo-like cmevo
+
+
+译文：
+    lojbo gerna 逻辑语语法
+    ├jufra 句子
+    │ └bridi 谓语、从句
+    │  ├selbri （动词结构由brivo组成）
+    │  │└tanru 隐喻（由多于1个的brivo组成）
+    │  │├seltau tanru 中的左结合词
+    │  │└tertau tanru 中的右结合词
+    │  └terbri 论元结构
+    │   └sumti 论元
+    │    └gadri 起始冠词（如la, le, lo）
+    └ valsi词
+        ├cmavo 结构词
+        │├selma'o 结构词{cmavo}类
+        │└terma'o (或 cmavo smuni) 结构词{cmavo}的意思
+        ├brivo 谓词{brivla}
+        │├gismu 5个字母的根本词汇
+        │├lujvo 由词缀{cmavo}组成的复合词
+        │├rafsi 词缀
+        ││├reljvo, cibjvo, vonjvo, ... lujvo由2, 3, 4, ... 个rafsi 组成
+        ││├jvotau (或veljvo) 隐喻{tanru}构建的复合词{lujvo}（没有变短rafsi）
+        ││├zevlyjvo (或zi'evla)lujvo通过使用-(')y(')-连字符来合成词
+        ││├nibysucyjvo 隐含抽象的 lujvo
+        ││├(sizy)jvomi'u 具有同等意义的其他lujvo形式，来自"(si'o)lujvo mintu
+        ││├jvova'i lujvo价值, 来自lujvo vamji
+        ││└xlajvo 差的lujvo，来自xlali lujvo。
+        │└fu'ivla借词，来自'fukpi valsi'=复制的词
+        │ ├pavyfu'ivla在第1阶段中，保留了原词的拼写
+        │ └zevla, zi'evla (zifre valsi = "自由词")
+        │  └relfu'ivla, cibyfu'ivla, ...在2, 3, 4阶段，外来词被改变
+        └cmevo, cmevla 属性词以辅音结尾，是结构词{cmavo}词的结构
+         └jvocmevo 像lujvo 的cmevo
